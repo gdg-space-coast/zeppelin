@@ -25,7 +25,7 @@ Absolutely not! We will split up into teams. You may partner with people you kno
 #### What is the process?
 
 Here is a quick look at an early version of the Design Sprint from 2012. Jake Knapp from <a href="http://www.gv.com/">Google Ventures</a> quickly
-outlines the Design Sprint process with an example from their work with start-up <a href="http://www.custommade.com/">CustomMade</a>.
+outlines the Design Sprint process with an example from their work with startup <a href="http://www.custommade.com/">CustomMade</a>.
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/qvdO0G4uQgc" frameborder="0" allowfullscreen></iframe>
 
@@ -67,7 +67,7 @@ create beautiful and easy-to-use products. Leena Rao takes a look at Google Vent
 <iframe width="560" height="315" src="//www.youtube.com/embed/zusc6HD9SFA" frameborder="0" allowfullscreen></iframe>
 
 
-#### Sprints for start-ups and enterprises
+#### Sprints for startups and enterprises
 
 You can learn a lot about Design Sprints with this Google I/O 2014 video: 
 <a href="https://www.youtube.com/watch?v=aWQUSiOZ0x8&list=PLOU2XLYxmsIJQe6T9CKafiDm7p_LCCx6F">The design sprint: from Google Ventures to Google[x]</a>
