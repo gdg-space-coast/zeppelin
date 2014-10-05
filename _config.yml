@@ -38,7 +38,7 @@ c4sponsorsUrl: "https://docs.google.com/forms/d/1H3lMjgsrccU1PXCzLKvSzGU6eBmrdZJ
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
@@ -79,8 +79,8 @@ latestNewsTitle: "Latest news"
 
 # Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 0
-rockstarSpeakersTitle: "Speakers TBA..."
+rockstarSpeakersCount: 2
+rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "Speaker Details"
 
 # Location Block
@@ -93,7 +93,7 @@ eventAddressLocalityRegion: "Florida"
 eventPostalCode: "32901"
 eventAddressCountry: "USA"
 eventStartTime: "2014-10-04T11:00"
-eventDoorTime: "10:30"
+eventDoorTime: "11:00"
 eventEndTime: "2014-10-04T20:00"
 eventPlaceCoordinates: "28.064459,-80.622979"
 mapCenterCoordinates: "28.064459,-80.622979"
@@ -167,7 +167,7 @@ blogCommentsEnabled: false
 discusShortName: "devfestspacecoast"
 
 # Speakers List Block
-showSessions: false
+showSessions: true
 thumbnailsFolder: /img/speakers/
 
 # Team Block

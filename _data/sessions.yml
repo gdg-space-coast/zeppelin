@@ -1,6 +1,6 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Registration and snacks"
   place: "Hall"
   service: true
 -
@@ -10,41 +10,25 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
+  title: "Keynote: Latest updates on the Android Platform"
+  description: "Get the latest news from the fast moving world of Android. See live demos of video games on Android TV, Google Fit on Android Wear, and Android Studio's latest features. Learn about the upcoming Android Auto platform."
+  subtype: keynote
+  speakers: [1, 2]
   language: en
-  complexity: "Intermediate"
+  complexity: "Beginner"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
+  title: "Designing for Google Glass"
+  description: "This session will teach you how to build usable Google Glass interfaces for the real world. The focus will be on giving your users the information they need as quickly and clearly as possible. Minimalisam, contrast, and speed will be the focus. This will prepare you for the Wearables Design Sprint."
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [1]
   language: en
   complexity: "Beginner"
 -
   id: 003
-  title: "The world is your playground - go global with Google"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
+  title: "Android Wearables Design Sprint"
+  description: "A Design Sprint brings together your entire team to solve important challenges. This includes developers, designers, executives, testers, marketing, etc. Working together you tackle important questions and end up with designs that you can immediately focus on bringing to market quickly. Each step will be time-boxed and we will give you instructions for the next step at each break. We will have Sprintmasters going around the room to answer questions and help the teams. If your team is exciting about your design, you can take it to Startup Weekend Space Coast on November 14! At that weekend-long event, you will be able to build a working version of your design and come up with a business plan to make it a success!"
+  subtype: workshop
+  speakers: [1]
   language: en
-  complexity: "Expert"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
   complexity: "Beginner"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
