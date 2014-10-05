@@ -44,9 +44,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
+# - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
+# - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -55,7 +55,7 @@ eventDate: "October 18th, 2014"
 typeoutTextValues: '"", "Melbourne", "Florida Tech"'
 typeoutFallback: "Space Coast"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
+# - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Ticket Info"}
 
 # About Block
@@ -70,9 +70,9 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "110", specialCharacter: "+", info: "attendees", detail: "Developers, Designers, and Business"}
- - {count: "3", specialCharacter: "", info: "hours", detail: "of Android Demos and presentations"}
+ - {count: "2", specialCharacter: "", info: "hours", detail: "of Android Demos and presentations"}
  - {count: "4", specialCharacter: "+", info: "hours", detail: "of collaboration, brainstorming, and innovation"}
- - {count: "3", specialCharacter: "+", info: "speakers", detail: "experienced in Google technologies"}
+ - {count: "2", specialCharacter: "+", info: "speakers", detail: "experienced in Google technologies"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
