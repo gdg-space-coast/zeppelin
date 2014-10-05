@@ -12,7 +12,7 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 ### Features
 * Easy to setup
 * Simple and responsive design
-* Inegrated speakers and sessions management
+* Integrated speakers and sessions management
 * SVG icons
 * SEO friendly
 
@@ -24,6 +24,8 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 4. Select what content blocks do you need
 5. Push changes to ```gh-pages``` branch
 6. Enjoy your awesome DevFest site at ```http://[your github name].github.io/zeppelin/```
+
+Or watch project presentation from [GDG[x] Townhall meeting](http://www.youtube.com/watch?v=xYmhheoLjcI). Slides available [here](https://docs.google.com/presentation/d/19aM7yNl_orDaCNND5LpCY3fShb6PyMltnzYfKvV8R_8/edit?usp=sharing)
 
 
 ## Local development
@@ -86,7 +88,6 @@ Quick-start guide is not enough? Checkout [full documentation](https://github.co
 
 
 ### TODO List
-* Schedule page template
 * Optimization scripts for mac and linux
 
 ### Known issues
@@ -114,6 +115,9 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [DevFest Centro-Oeste 2014](http://www.devfestcentrooeste.com.br/)
 * [DevFest SP 2014](http://sp.devfest.com.br/)
 * [Android DevFest Space Coast](http://gdg-space-coast.github.io/zeppelin/)
+* [DevFest in Baroda](devfest.gdgbaroda.com)
+* [GDG Hi Pic (France)](http://maximemularz.github.io/zeppelin/)
+* [GDG Space Coast DevFest](http://gdg-space-coast.github.io/zeppelin/)
 
 ### Contributors
 * Design and markup: [Oleh Zasadnyy](https://github.com/ozasadnyy)

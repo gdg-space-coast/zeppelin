@@ -13,6 +13,7 @@ url: "http://gdg-space-coast.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-41029375-7"
 googleAnalyticsSiteUrl: "gdg-space-coast.github.io"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "GDG Space Coast"
@@ -139,6 +140,8 @@ ticketsOffers:
   ticketContentList: ["Registration is open!", "Limit: 110 attendees."]
   validFrom: "2014-09-20T14:00"
   validThrough: "2014-10-17T19:00"
+  soldOut: false
+  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
