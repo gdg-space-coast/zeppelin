@@ -11,15 +11,18 @@
     - {abbr: "GDG", title: "GDG Space Coast", url: "http://www.gdgspacecoast.org"}
   social: 
     - {name: "google-plus", link: "https://www.google.com/+MichaelPrentice"}
-    - {name: "twitter", link: "https://twitter.com/Splaktar"}
     - {name: "github", link: "https://github.com/Splaktar"}
+    - {name: "stack-overflow", link: "http://stackoverflow.com/users/633107/splaktar"}
+    - {name: "twitter", link: "https://twitter.com/Splaktar"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/michaellprentice/"}
+    - {name: "youtube", link: "https://www.youtube.com/user/Splaktar/feed"}
     - {name: "site", link: "http://DevIntent.com/"}
 - 
   id: 2
-  name: "Sivaraman"
-  surname: "G"
+  name: "Siva"
+  surname: "Govindarajan"
   company: "Capgemini"
-  title: "Android Developer"
+  title: "IT Manager, Solution Architect, Product Manager"
   bio: 'Big Android enthusiast and a hobbyist developer. By extension, Google lover and Glass Explorer!'
   thumbnailUrl: SivaG.jpg
   rockstar: true
@@ -27,4 +30,7 @@
     - {abbr: "GDG", title: "GDG Central Florida", url: "http://gdgcentralfl.appspot.com"}
   social: 
     - {name: "google-plus", link: "https://www.google.com/+SivaG1"}
+    - {name: "stack-overflow", link: "http://stackoverflow.com/users/2559284/sivag1"}
+    - {name: "twitter", link: "https://twitter.com/sivag1"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/sivaraman-govindarajan/6/a0/289"}
     - {name: "site", link: "http://sivag1.wordpress.com/"}
