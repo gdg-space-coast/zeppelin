@@ -1,6 +1,6 @@
 -
   id: 307
-  title: "Registration and snacks"
+  title: "Registration, snacks, and networking"
   place: "Hall"
   service: true
 -
@@ -30,5 +30,12 @@
   description: "A Design Sprint brings together your entire team to solve important challenges. This includes developers, designers, executives, testers, marketing, etc. Working together you tackle important questions and end up with designs that you can immediately focus on bringing to market quickly. Each step will be time-boxed and we will give you instructions for the next step at each break. We will have Sprintmasters going around the room to answer questions and help the teams. If your team is exciting about your design, you can take it to Startup Weekend Space Coast on November 14! At that weekend-long event, you will be able to build a working version of your design and come up with a business plan to make it a success!"
   subtype: workshop
   speakers: [1]
+  language: en
+  complexity: "Beginner"
+-
+  id: 004
+  title: "Awards, Networking, and device raffles"
+  description: "We'll end the night with awards for the top Design Sprint presentation and a raffle of Android and Android Wear devices! The Android Wear devices, that you will get a chance to use during the Design Sprint, will be raffled off. They currently include two LG G Watches and one Samsung Gear Live. Stay tuned for more device raffle news as we hope to add a couple Motorola 360's to the list!"
+  subtype: presentation
   language: en
   complexity: "Beginner"
