@@ -38,3 +38,47 @@
     - {abbr: "ACM", title: "Association for Computing Machinery"}
   social: 
     - {name: "facebook", link: "https://www.facebook.com/jacob.bowers.142"}
+-
+  id: 3
+  name: "Venkat"
+  surname: "Gandhi"
+  title: "General Electric"
+  thumbnailUrl: Venkat.jpg
+  subTeam: true
+  social:
+    - {name: "google-plus", link: "http://www.google.com/+VenkatGandhi"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/venkatesangandhi/"}
+-
+  id: 4
+  name: "Theresa"
+  surname: "Chen"
+  title: "Harris Corporation"
+  thumbnailUrl: TheresaChen.jpg
+  subTeam: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/115848282595844292315"}
+    - {name: "linkedin", link: "http://www.linkedin.com/pub/theresa-chen/1/5bb/243"}
+    - {name: "site", link: "http://www.brevardfoodblog.info/"}
+-
+  id: 5
+  name: "Amanda"
+  surname: "Elliot"
+  title: "Cheating College"
+  thumbnailUrl: AmandaElliot.png
+  subTeam: true
+  social:
+    - {name: "google-plus", link: "https://www.google.com/+AmandaElliott_ahmunduh"}
+    - {name: "twitter", link: "http://twitter.com/aelliottart"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/aewhitepanther"}
+    - {name: "youtube", link: "http://www.youtube.com/user/ahmunduhsays"}
+    - {name: "site", link: "http://cheatingcollege.co/"}
+-
+  id: 6
+  name: "Deb"
+  surname: "Vorndran"
+  title: "Freelance Web Developer"
+  thumbnailUrl: DebVorndran.jpg
+  subTeam: true
+  social:
+    - {name: "google-plus", link: "https://www.google.com/+DebVorndran"}
+    - {name: "youtube", link: "http://www.youtube.com/user/cyber99mom"}
