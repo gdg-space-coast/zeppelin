@@ -128,16 +128,16 @@ subscribeInfo: "Registration will be open in early September. Number of tickets 
 # Tickets Block
 ticketsInfoTitle: "Ticket Information"
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all tech talks, coffee brakes, and the design sprint. Advanced RSVP is required."
+ticketsInfo: "Tickets grant access to all tech talks, lunch, the design sprint, and dinner. Advanced RSVP is required."
 ticketsOffers:
  -
   name: "1 day"
-  price: "Free!"
+  price: "Free"
   ticketsNumber: "110"
   ribbon: "-100%"
   buyButtonLink: "http://www.meetup.com/GDGSpaceCoast/events/208445302/"
   buyButtonText: "RSVP Now"
-  ticketContentList: ["Registration is open!", "Limit: 110 attendees."]
+  ticketContentList: ["Registration is nearly full!", "Limit: 110 attendees."]
   validFrom: "2014-09-20T14:00"
   validThrough: "2014-10-17T19:00"
   soldOut: false
