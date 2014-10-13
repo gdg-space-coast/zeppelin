@@ -63,7 +63,7 @@ heroButtons:
 aboutTitle: "About Android DevFest"
 aboutBlock:
  - {title: "Tech Talks", image: "conference.jpg",
-    text: "Come hear the latest updates on Android L, Android TV, Android Wear, Google Glass, and Android Studio." }
+    text: "Come hear the latest updates on Android L, Android TV, Android Wear, Android Auto, Google Glass, and Google Fit." }
  - {title: "Design Sprint", image: "workshop.jpg",
     text: "The design sprint is a process for prototyping and testing any product. This process was just made public by Google Ventures and Google[x] in 2014." }
 
