@@ -1,7 +1,8 @@
 - 
-  group: "General sponsor"
+  group: "Sponsors"
   elements: 
-    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "google.svg"}
+    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "developers_logo.png"}
+    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "logo_jetbrains.gif"}
 - 
   group: "With support of"
   elements:
