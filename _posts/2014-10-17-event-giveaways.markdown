@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Event Giveaways"
-date:   2014-10-17 18:50:00
+date:   2014-10-17 19:15:00
 isStaticPost: false
 ---
 
@@ -13,7 +13,7 @@ You will be asked to fill out a survey with feedback on the event and must be pr
 #### Here are some of the prizes
 
 
-Prizes were made possible by the massive support of <a href="https://developers.google.com/">Google Developers</a>!
+Prizes were made possible by the massive support of <a href="https://developers.google.com/" target="_blank">Google Developers</a>!
 
 
 ##### Motorla G LTE global phones
@@ -39,4 +39,4 @@ Those will be given to the event volunteers in appreciation for their hard work 
 raffle off a few of them along with some T-shirts and other swag at the end if there are any left overs.
 
 #### Any questions? 
-Discuss your thoughts in our <a href="https://plus.google.com/communities/102090770044888811148">Google+ Community</a>.
+Discuss your thoughts in our <a href="https://plus.google.com/communities/102090770044888811148" target="_blank">Google+ Community</a>.

@@ -56,7 +56,7 @@ typeoutTextValues: '"", "Melbourne", "Florida Tech"'
 typeoutFallback: "Space Coast"
 heroButtons:
 # - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Ticket Info"}
+# - {permalink: "/#tickets", text: "Ticket Info"}
 
 # About Block
 aboutTitle: "About Android DevFest"
@@ -127,7 +127,7 @@ subscribeInfo: "Registration will be open in early September. Number of tickets 
 # Tickets Block
 ticketsInfoTitle: "Ticket Information"
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all tech talks, lunch, the design sprint, and dinner. Advanced RSVP is required."
+ticketsInfo: "Tickets grant access to all tech talks, lunch, the design sprint, and dinner."
 ticketsOffers:
  -
   name: "1 day"
@@ -135,11 +135,11 @@ ticketsOffers:
   ticketsNumber: "110"
   ribbon: "-100%"
   buyButtonLink: "http://www.meetup.com/GDGSpaceCoast/events/208445302/"
-  buyButtonText: "RSVP Now"
-  ticketContentList: ["Registration is nearly full!", "Limit: 110 attendees."]
+  buyButtonText: "RSVPs Closed"
+  ticketContentList: ["Registration has ended", "Limit: 110 attendees."]
   validFrom: "2014-09-20T14:00"
   validThrough: "2014-10-17T19:00"
-  soldOut: false
+  soldOut: true
   soldOutText: "Sold Out"
 
 # Footer
