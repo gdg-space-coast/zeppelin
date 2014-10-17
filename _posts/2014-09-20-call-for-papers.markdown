@@ -24,7 +24,7 @@ The program committee will assess the proposals and speaker experience and then 
 * Android Wear
 * Google Fit
 * Android TV
-* Android L
+* Android Lollipop
 * Google Glass
 * Android Developer Tools
 * Android Studio

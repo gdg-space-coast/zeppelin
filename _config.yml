@@ -3,7 +3,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
-
 # Site Settings
 title: "Android DevFest Season 2014"
 email: "organizer@gdgspacecoast.org"
@@ -63,7 +62,7 @@ heroButtons:
 aboutTitle: "About Android DevFest"
 aboutBlock:
  - {title: "Tech Talks", image: "conference.jpg",
-    text: "Come hear the latest updates on Android L, Android TV, Android Wear, Android Auto, Google Glass, and Google Fit." }
+    text: "Come hear the latest updates on Android Lollipop, Android TV, Android Wear, Android Auto, Google Glass, and Google Fit." }
  - {title: "Design Sprint", image: "workshop.jpg",
     text: "The design sprint is a process for prototyping and testing any product. This process was just made public by Google Ventures and Google[x] in 2014." }
 
@@ -243,7 +242,7 @@ judgesTitle: "Judges"
 prizesTitle: "Prizes"
 prizes:
  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android Lollipop"}
  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
 # Hackathon Location Block

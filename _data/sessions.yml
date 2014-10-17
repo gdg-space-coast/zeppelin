@@ -11,7 +11,7 @@
 -
   id: 001
   title: "Keynote: Latest updates on the Android Platform"
-  description: "Get the latest news from the fast moving world of Android. See live demos of video games on Android TV, Google Fit on Android Wear, and Android Studio's latest features. Learn about the upcoming Android Auto platform."
+  description: "Get the latest news from the fast moving world of Android. See live demos of video games on Android TV and Android Lollipop's new features and Material Design. Learn about the upcoming Android Auto platform."
   subtype: keynote
   speakers: [1, 2]
   language: en
@@ -35,7 +35,7 @@
 -
   id: 004
   title: "Awards, Networking, and device raffles"
-  description: "We'll end the night with awards for the top Design Sprint presentation and a raffle of Android and Android Wear devices! The Android Wear devices, that you will get a chance to use during the Design Sprint, will be raffled off. They currently include two LG G Watches and one Samsung Gear Live. Stay tuned for more device raffle news as we hope to add a couple Motorola 360's to the list!"
+  description: "We'll end the night with awards for the top Design Sprint presentation and a raffle of five Moto G LTE phones, three LG G Watches and a Samsung Gear Live! All of these devices will be available for hands-on demos during lunch and the Design Sprint."
   subtype: presentation
   language: en
   complexity: "Beginner"
